@@ -1,3 +1,4 @@
 [submodule "example"]
 	path = example
-	url = git@github.com:p1gp1g/android-example
+	url = https://github.com/p1gp1g/android-example
+	branch = dev-android-connector
